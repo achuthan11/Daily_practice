@@ -1,4 +1,4 @@
-#Day1 
+#Day0
 #lowercase:
 word=input()
 print(word.lower()
