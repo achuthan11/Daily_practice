@@ -1,7 +1,7 @@
 #Day1 
 #lowercase:
 word=input()
-print(word.lower()
+print(word.lower())
 
 #Detect Capital:
 word=input()
